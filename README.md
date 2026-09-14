@@ -200,7 +200,7 @@ Test Suites: 2 passed, 2 total
 Tests:       3 passed, 3 total
 Snapshots:   0 total
 Time:        1.33 s
-Ran all test suites.
+Ran all test suite.
 ```
 
 To simulate a failure in the test coverage, which will be needed to ensure your CI/CD pipeline fails on bad tests, set the MOVIE_HEADING variable before the command like so:
